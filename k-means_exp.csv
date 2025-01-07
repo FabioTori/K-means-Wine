@@ -1,0 +1,325 @@
+﻿apellido;item;promocion;campaña;variedad;cantidad_min;descuento;origen
+Smith;1;2;Enero;Pinot Noir;72;17;France
+Smith;2;24;Septiembre;Pinot Noir;6;34;Italy
+Johnson;3;17;July;Pinot Noir;12;47;Germany
+Johnson;4;24;Septiembre;Pinot Noir;6;34;Italy
+Johnson;5;26;Octubre;Pinot Noir;144;83;Australia
+Williams;6;18;July;Espumante;6;50;Oregon
+Williams;7;22;Agosto;Champagne;72;63;France
+Williams;8;31;Diciembre;Champagne;72;89;France
+Brown;9;7;Marzo;Prosecco;6;40;Australia
+Brown;10;29;Noviembre;Pinot Grigio;6;87;France
+Brown;11;30;Diciembre;Malbec;6;54;France
+Jones;12;8;Marzo;Espumante;6;45;South Africa
+Miller;13;6;Marzo;Prosecco;144;86;Chile
+Miller;14;10;Abril;Prosecco;72;52;California
+Miller;15;14;Junio;Merlot;72;64;Chile
+Miller;16;15;Junio;Cabernet Sauvignon;144;19;Italy
+Miller;17;22;Agosto;Champagne;72;63;France
+Miller;18;23;Septiembre;Chardonnay;144;39;South Africa
+Miller;19;31;Diciembre;Champagne;72;89;France
+Davis;20;12;Mayo;Prosecco;72;83;Australia
+Davis;21;22;Agosto;Champagne;72;63;France
+Davis;22;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+Garcia;23;14;Junio;Merlot;72;64;Chile
+Garcia;24;15;Junio;Cabernet Sauvignon;144;19;Italy
+Rodriguez;25;2;Enero;Pinot Noir;72;17;France
+Rodriguez;26;26;Octubre;Pinot Noir;144;83;Australia
+Wilson;27;8;Marzo;Espumante;6;45;South Africa
+Wilson;28;30;Diciembre;Malbec;6;54;France
+Martinez;29;12;Mayo;Prosecco;72;83;Australia
+Martinez;30;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+Martinez;31;28;Noviembre;Cabernet Sauvignon;12;56;France
+Anderson;32;24;Septiembre;Pinot Noir;6;34;Italy
+Anderson;33;26;Octubre;Pinot Noir;144;83;Australia
+Taylor;34;7;Marzo;Prosecco;6;40;Australia
+Taylor;35;18;July;Espumante;6;50;Oregon
+Taylor;36;29;Noviembre;Pinot Grigio;6;87;France
+Taylor;37;30;Diciembre;Malbec;6;54;France
+Thomas;38;1;Enero;Malbec;72;56;France
+Thomas;39;4;Febrero;Champagne;72;48;France
+Thomas;40;9;Abril;Chardonnay;144;57;Chile
+Thomas;41;11;Mayo;Champagne;72;85;France
+Thomas;42;14;Junio;Merlot;72;64;Chile
+Thomas;43;26;Octubre;Pinot Noir;144;83;Australia
+Hernandez;44;28;Noviembre;Cabernet Sauvignon;12;56;France
+Hernandez;45;29;Noviembre;Pinot Grigio;6;87;France
+Moore;46;17;July;Pinot Noir;12;47;Germany
+Moore;47;24;Septiembre;Pinot Noir;6;34;Italy
+Martin;48;2;Enero;Pinot Noir;72;17;France
+Martin;49;11;Mayo;Champagne;72;85;France
+Martin;50;28;Noviembre;Cabernet Sauvignon;12;56;France
+Jackson;51;1;Enero;Malbec;72;56;France
+Jackson;52;2;Enero;Pinot Noir;72;17;France
+Jackson;53;11;Mayo;Champagne;72;85;France
+Jackson;54;15;Junio;Cabernet Sauvignon;144;19;Italy
+Jackson;55;22;Agosto;Champagne;72;63;France
+Thompson;56;9;Abril;Chardonnay;144;57;Chile
+Thompson;57;16;Junio;Merlot;72;88;California
+Thompson;58;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+Thompson;59;30;Diciembre;Malbec;6;54;France
+White;60;14;Junio;Merlot;72;64;Chile
+White;61;22;Agosto;Champagne;72;63;France
+White;62;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+White;63;30;Diciembre;Malbec;6;54;France
+Lopez;64;9;Abril;Chardonnay;144;57;Chile
+Lopez;65;11;Mayo;Champagne;72;85;France
+Lopez;66;15;Junio;Cabernet Sauvignon;144;19;Italy
+Lopez;67;16;Junio;Merlot;72;88;California
+Lopez;68;27;Octubre;Champagne;72;88;New Zealand
+Lee;69;3;Febrero;Espumante;144;32;Oregon
+Lee;70;4;Febrero;Champagne;72;48;France
+Lee;71;6;Marzo;Prosecco;144;86;Chile
+Lee;72;22;Agosto;Champagne;72;63;France
+Lee;73;27;Octubre;Champagne;72;88;New Zealand
+Gonzalez;74;9;Abril;Chardonnay;144;57;Chile
+Gonzalez;75;31;Diciembre;Champagne;72;89;France
+Harris;76;4;Febrero;Champagne;72;48;France
+Harris;77;6;Marzo;Prosecco;144;86;Chile
+Harris;78;7;Marzo;Prosecco;6;40;Australia
+Harris;79;19;July;Champagne;12;66;Germany
+Harris;80;22;Agosto;Champagne;72;63;France
+Harris;81;27;Octubre;Champagne;72;88;New Zealand
+Clark;82;4;Febrero;Champagne;72;48;France
+Clark;83;11;Mayo;Champagne;72;85;France
+Clark;84;28;Noviembre;Cabernet Sauvignon;12;56;France
+Clark;85;31;Diciembre;Champagne;72;89;France
+Lewis;86;7;Marzo;Prosecco;6;40;Australia
+Lewis;87;8;Marzo;Espumante;6;45;South Africa
+Lewis;88;30;Diciembre;Malbec;6;54;France
+Robinson;89;7;Marzo;Prosecco;6;40;Australia
+Robinson;90;29;Noviembre;Pinot Grigio;6;87;France
+Walker;91;18;July;Espumante;6;50;Oregon
+Walker;92;29;Noviembre;Pinot Grigio;6;87;France
+Perez;93;18;July;Espumante;6;50;Oregon
+Perez;94;30;Diciembre;Malbec;6;54;France
+Hall;95;11;Mayo;Champagne;72;85;France
+Hall;96;22;Agosto;Champagne;72;63;France
+Young;97;6;Marzo;Prosecco;144;86;Chile
+Young;98;9;Abril;Chardonnay;144;57;Chile
+Young;99;15;Junio;Cabernet Sauvignon;144;19;Italy
+Young;100;22;Agosto;Champagne;72;63;France
+Young;101;31;Diciembre;Champagne;72;89;France
+Young;102;32;Diciembre;Cabernet Sauvignon;72;45;Germany
+Allen;103;9;Abril;Chardonnay;144;57;Chile
+Allen;104;27;Octubre;Champagne;72;88;New Zealand
+Sanchez;105;4;Febrero;Champagne;72;48;France
+Sanchez;106;5;Febrero;Cabernet Sauvignon;144;44;New Zealand
+Sanchez;107;14;Junio;Merlot;72;64;Chile
+Sanchez;108;15;Junio;Cabernet Sauvignon;144;19;Italy
+Sanchez;109;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Sanchez;110;22;Agosto;Champagne;72;63;France
+Sanchez;111;26;Octubre;Pinot Noir;144;83;Australia
+Wright;112;4;Febrero;Champagne;72;48;France
+Wright;113;6;Marzo;Prosecco;144;86;Chile
+Wright;114;21;Agosto;Champagne;12;50;California
+Wright;115;27;Octubre;Champagne;72;88;New Zealand
+King;116;7;Marzo;Prosecco;6;40;Australia
+King;117;13;Mayo;Merlot;6;43;Chile
+King;118;18;July;Espumante;6;50;Oregon
+King;119;29;Noviembre;Pinot Grigio;6;87;France
+Scott;120;6;Marzo;Prosecco;144;86;Chile
+Scott;121;14;Junio;Merlot;72;64;Chile
+Scott;122;23;Septiembre;Chardonnay;144;39;South Africa
+Green;123;7;Marzo;Prosecco;6;40;Australia
+Baker;124;7;Marzo;Prosecco;6;40;Australia
+Baker;125;10;Abril;Prosecco;72;52;California
+Baker;126;19;July;Champagne;12;66;Germany
+Baker;127;31;Diciembre;Champagne;72;89;France
+Adams;128;18;July;Espumante;6;50;Oregon
+Adams;129;29;Noviembre;Pinot Grigio;6;87;France
+Adams;130;30;Diciembre;Malbec;6;54;France
+Nelson;131;3;Febrero;Espumante;144;32;Oregon
+Nelson;132;4;Febrero;Champagne;72;48;France
+Nelson;133;8;Marzo;Espumante;6;45;South Africa
+Nelson;134;31;Diciembre;Champagne;72;89;France
+Hill;135;8;Marzo;Espumante;6;45;South Africa
+Hill;136;13;Mayo;Merlot;6;43;Chile
+Hill;137;18;July;Espumante;6;50;Oregon
+Hill;138;30;Diciembre;Malbec;6;54;France
+Ramirez;139;9;Abril;Chardonnay;144;57;Chile
+Campbell;140;2;Enero;Pinot Noir;72;17;France
+Campbell;141;24;Septiembre;Pinot Noir;6;34;Italy
+Campbell;142;26;Octubre;Pinot Noir;144;83;Australia
+Mitchell;143;1;Enero;Malbec;72;56;France
+Mitchell;144;2;Enero;Pinot Noir;72;17;France
+Roberts;145;31;Diciembre;Champagne;72;89;France
+Carter;146;7;Marzo;Prosecco;6;40;Australia
+Carter;147;13;Mayo;Merlot;6;43;Chile
+Carter;148;29;Noviembre;Pinot Grigio;6;87;France
+Carter;149;30;Diciembre;Malbec;6;54;France
+Phillips;150;17;July;Pinot Noir;12;47;Germany
+Phillips;151;24;Septiembre;Pinot Noir;6;34;Italy
+Evans;152;22;Agosto;Champagne;72;63;France
+Evans;153;27;Octubre;Champagne;72;88;New Zealand
+Turner;154;4;Febrero;Champagne;72;48;France
+Turner;155;6;Marzo;Prosecco;144;86;Chile
+Turner;156;27;Octubre;Champagne;72;88;New Zealand
+Turner;157;31;Diciembre;Champagne;72;89;France
+Torres;158;8;Marzo;Espumante;6;45;South Africa
+Parker;159;11;Mayo;Champagne;72;85;France
+Parker;160;16;Junio;Merlot;72;88;California
+Parker;161;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Parker;162;29;Noviembre;Pinot Grigio;6;87;France
+Parker;163;31;Diciembre;Champagne;72;89;France
+Collins;164;11;Mayo;Champagne;72;85;France
+Collins;165;30;Diciembre;Malbec;6;54;France
+Edwards;166;8;Marzo;Espumante;6;45;South Africa
+Edwards;167;27;Octubre;Champagne;72;88;New Zealand
+Stewart;168;8;Marzo;Espumante;6;45;South Africa
+Stewart;169;29;Noviembre;Pinot Grigio;6;87;France
+Stewart;170;30;Diciembre;Malbec;6;54;France
+Flores;171;17;July;Pinot Noir;12;47;Germany
+Flores;172;24;Septiembre;Pinot Noir;6;34;Italy
+Morris;173;17;July;Pinot Noir;12;47;Germany
+Morris;174;24;Septiembre;Pinot Noir;6;34;Italy
+Morris;175;26;Octubre;Pinot Noir;144;83;Australia
+Nguyen;176;19;July;Champagne;12;66;Germany
+Nguyen;177;31;Diciembre;Champagne;72;89;France
+Murphy;178;7;Marzo;Prosecco;6;40;Australia
+Murphy;179;12;Mayo;Prosecco;72;83;Australia
+Rivera;180;7;Marzo;Prosecco;6;40;Australia
+Rivera;181;18;July;Espumante;6;50;Oregon
+Cook;182;24;Septiembre;Pinot Noir;6;34;Italy
+Cook;183;26;Octubre;Pinot Noir;144;83;Australia
+Rogers;184;3;Febrero;Espumante;144;32;Oregon
+Rogers;185;7;Marzo;Prosecco;6;40;Australia
+Rogers;186;8;Marzo;Espumante;6;45;South Africa
+Rogers;187;19;July;Champagne;12;66;Germany
+Rogers;188;21;Agosto;Champagne;12;50;California
+Rogers;189;22;Agosto;Champagne;72;63;France
+Morgan;190;8;Marzo;Espumante;6;45;South Africa
+Morgan;191;29;Noviembre;Pinot Grigio;6;87;France
+Peterson;192;1;Enero;Malbec;72;56;France
+Peterson;193;2;Enero;Pinot Noir;72;17;France
+Peterson;194;10;Abril;Prosecco;72;52;California
+Peterson;195;23;Septiembre;Chardonnay;144;39;South Africa
+Peterson;196;26;Octubre;Pinot Noir;144;83;Australia
+Peterson;197;27;Octubre;Champagne;72;88;New Zealand
+Cooper;198;4;Febrero;Champagne;72;48;France
+Cooper;199;16;Junio;Merlot;72;88;California
+Cooper;200;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Cooper;201;32;Diciembre;Cabernet Sauvignon;72;45;Germany
+Reed;202;5;Febrero;Cabernet Sauvignon;144;44;New Zealand
+Reed;203;14;Junio;Merlot;72;64;Chile
+Bailey;204;7;Marzo;Prosecco;6;40;Australia
+Bailey;205;30;Diciembre;Malbec;6;54;France
+Bell;206;2;Enero;Pinot Noir;72;17;France
+Bell;207;17;July;Pinot Noir;12;47;Germany
+Bell;208;24;Septiembre;Pinot Noir;6;34;Italy
+Bell;209;26;Octubre;Pinot Noir;144;83;Australia
+Gomez;210;11;Mayo;Champagne;72;85;France
+Gomez;211;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Gomez;212;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+Gomez;213;32;Diciembre;Cabernet Sauvignon;72;45;Germany
+Kelly;214;6;Marzo;Prosecco;144;86;Chile
+Kelly;215;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Kelly;216;31;Diciembre;Champagne;72;89;France
+Kelly;217;32;Diciembre;Cabernet Sauvignon;72;45;Germany
+Howard;218;11;Mayo;Champagne;72;85;France
+Howard;219;12;Mayo;Prosecco;72;83;Australia
+Howard;220;22;Agosto;Champagne;72;63;France
+Ward;221;4;Febrero;Champagne;72;48;France
+Cox;222;2;Enero;Pinot Noir;72;17;France
+Cox;223;17;July;Pinot Noir;12;47;Germany
+Cox;224;24;Septiembre;Pinot Noir;6;34;Italy
+Cox;225;26;Octubre;Pinot Noir;144;83;Australia
+Diaz;226;7;Marzo;Prosecco;6;40;Australia
+Diaz;227;8;Marzo;Espumante;6;45;South Africa
+Diaz;228;29;Noviembre;Pinot Grigio;6;87;France
+Diaz;229;30;Diciembre;Malbec;6;54;France
+Richardson;230;3;Febrero;Espumante;144;32;Oregon
+Richardson;231;6;Marzo;Prosecco;144;86;Chile
+Richardson;232;22;Agosto;Champagne;72;63;France
+Wood;233;1;Enero;Malbec;72;56;France
+Wood;234;10;Abril;Prosecco;72;52;California
+Wood;235;14;Junio;Merlot;72;64;Chile
+Wood;236;31;Diciembre;Champagne;72;89;France
+Watson;237;7;Marzo;Prosecco;6;40;Australia
+Watson;238;29;Noviembre;Pinot Grigio;6;87;France
+Brooks;239;3;Febrero;Espumante;144;32;Oregon
+Brooks;240;8;Marzo;Espumante;6;45;South Africa
+Brooks;241;11;Mayo;Champagne;72;85;France
+Brooks;242;22;Agosto;Champagne;72;63;France
+Bennett;243;8;Marzo;Espumante;6;45;South Africa
+Bennett;244;29;Noviembre;Pinot Grigio;6;87;France
+Gray;245;12;Mayo;Prosecco;72;83;Australia
+Gray;246;16;Junio;Merlot;72;88;California
+Gray;247;26;Octubre;Pinot Noir;144;83;Australia
+James;248;7;Marzo;Prosecco;6;40;Australia
+James;249;8;Marzo;Espumante;6;45;South Africa
+James;250;13;Mayo;Merlot;6;43;Chile
+James;251;18;July;Espumante;6;50;Oregon
+James;252;30;Diciembre;Malbec;6;54;France
+Reyes;253;9;Abril;Chardonnay;144;57;Chile
+Reyes;254;23;Septiembre;Chardonnay;144;39;South Africa
+Cruz;255;29;Noviembre;Pinot Grigio;6;87;France
+Cruz;256;30;Diciembre;Malbec;6;54;France
+Hughes;257;7;Marzo;Prosecco;6;40;Australia
+Hughes;258;8;Marzo;Espumante;6;45;South Africa
+Hughes;259;13;Mayo;Merlot;6;43;Chile
+Hughes;260;29;Noviembre;Pinot Grigio;6;87;France
+Hughes;261;30;Diciembre;Malbec;6;54;France
+Price;262;1;Enero;Malbec;72;56;France
+Price;263;22;Agosto;Champagne;72;63;France
+Price;264;30;Diciembre;Malbec;6;54;France
+Price;265;31;Diciembre;Champagne;72;89;France
+Myers;266;18;July;Espumante;6;50;Oregon
+Myers;267;30;Diciembre;Malbec;6;54;France
+Long;268;3;Febrero;Espumante;144;32;Oregon
+Long;269;7;Marzo;Prosecco;6;40;Australia
+Long;270;10;Abril;Prosecco;72;52;California
+Foster;271;1;Enero;Malbec;72;56;France
+Foster;272;9;Abril;Chardonnay;144;57;Chile
+Foster;273;14;Junio;Merlot;72;64;Chile
+Foster;274;22;Agosto;Champagne;72;63;France
+Foster;275;23;Septiembre;Chardonnay;144;39;South Africa
+Sanders;276;1;Enero;Malbec;72;56;France
+Sanders;277;4;Febrero;Champagne;72;48;France
+Sanders;278;5;Febrero;Cabernet Sauvignon;144;44;New Zealand
+Sanders;279;6;Marzo;Prosecco;144;86;Chile
+Sanders;280;9;Abril;Chardonnay;144;57;Chile
+Sanders;281;11;Mayo;Champagne;72;85;France
+Sanders;282;20;Agosto;Cabernet Sauvignon;72;82;Italy
+Sanders;283;25;Octubre;Cabernet Sauvignon;72;59;Oregon
+Sanders;284;26;Octubre;Pinot Noir;144;83;Australia
+Ross;285;18;July;Espumante;6;50;Oregon
+Ross;286;21;Agosto;Champagne;12;50;California
+Morales;287;6;Marzo;Prosecco;144;86;Chile
+Morales;288;7;Marzo;Prosecco;6;40;Australia
+Morales;289;8;Marzo;Espumante;6;45;South Africa
+Morales;290;19;July;Champagne;12;66;Germany
+Morales;291;22;Agosto;Champagne;72;63;France
+Morales;292;31;Diciembre;Champagne;72;89;France
+Powell;293;5;Febrero;Cabernet Sauvignon;144;44;New Zealand
+Sullivan;294;8;Marzo;Espumante;6;45;South Africa
+Sullivan;295;13;Mayo;Merlot;6;43;Chile
+Sullivan;296;18;July;Espumante;6;50;Oregon
+Russell;297;26;Octubre;Pinot Noir;144;83;Australia
+Ortiz;298;8;Marzo;Espumante;6;45;South Africa
+Jenkins;299;24;Septiembre;Pinot Noir;6;34;Italy
+Jenkins;300;26;Octubre;Pinot Noir;144;83;Australia
+Gutierrez;301;6;Marzo;Prosecco;144;86;Chile
+Gutierrez;302;8;Marzo;Espumante;6;45;South Africa
+Gutierrez;303;10;Abril;Prosecco;72;52;California
+Gutierrez;304;18;July;Espumante;6;50;Oregon
+Perry;305;8;Marzo;Espumante;6;45;South Africa
+Perry;306;18;July;Espumante;6;50;Oregon
+Perry;307;29;Noviembre;Pinot Grigio;6;87;France
+Perry;308;30;Diciembre;Malbec;6;54;France
+Butler;309;1;Enero;Malbec;72;56;France
+Butler;310;4;Febrero;Champagne;72;48;France
+Butler;311;22;Agosto;Champagne;72;63;France
+Butler;312;28;Noviembre;Cabernet Sauvignon;12;56;France
+Butler;313;30;Diciembre;Malbec;6;54;France
+Barnes;314;10;Abril;Prosecco;72;52;California
+Barnes;315;21;Agosto;Champagne;12;50;California
+Barnes;316;22;Agosto;Champagne;72;63;France
+Barnes;317;31;Diciembre;Champagne;72;89;France
+Fisher;318;1;Enero;Malbec;72;56;France
+Fisher;319;2;Enero;Pinot Noir;72;17;France
+Fisher;320;11;Mayo;Champagne;72;85;France
+Fisher;321;22;Agosto;Champagne;72;63;France
+Fisher;322;28;Noviembre;Cabernet Sauvignon;12;56;France
+Fisher;323;30;Diciembre;Malbec;6;54;France
+Fisher;324;31;Diciembre;Champagne;72;89;France
